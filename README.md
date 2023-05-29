@@ -39,4 +39,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 
 
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XeOMRSzZ1sRORp-dFHj2i7ablesrTuAx#scrollTo=QlTkKwu0_e3x)
+[[Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XeOMRSzZ1sRORp-dFHj2i7ablesrTuAx#scrollTo=QlTkKwu0_e3x)
