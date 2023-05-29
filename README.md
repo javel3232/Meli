@@ -37,4 +37,4 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)]([URL_DEL_COLAB](https://colab.research.google.com/drive/1XeOMRSzZ1sRORp-dFHj2i7ablesrTuAx#scrollTo=QlTkKwu0_e3x))
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XeOMRSzZ1sRORp-dFHj2i7ablesrTuAx#scrollTo=QlTkKwu0_e3x)
